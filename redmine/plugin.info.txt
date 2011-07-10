@@ -1,7 +1,7 @@
-base   example
-author My Full Name
-email  me@example.com
-date   2010-01-17
-name   Example Plugin to do Stuff
-desc   This is just an Example of how a plugin description looks like
-url    http://www.dokuwiki.org/plugin:example
+base   redmine
+author Stefan Simroth, Ubicoo
+email  stefan.simroth@ubicoo.com
+date   2011-07-10
+name   Redmine integration plugin
+desc   This integrates DokuWiki with the project management tool Redmine.
+url    https://github.com/ubicoo/dokuwiki-redmine-plugin
