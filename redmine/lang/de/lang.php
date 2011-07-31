@@ -9,7 +9,7 @@
 $lang['menu'] = 'Redmine Plugin';
 
 // custom language strings for the plugin
-$lang['timesheet'] = 'Time Sheet';
+$lang['timesheet'] = 'Stundenzettel';
 
 
 

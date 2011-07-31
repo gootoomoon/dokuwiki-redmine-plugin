@@ -5,4 +5,5 @@
  * @author Stefan Simroth <stefan.simroth@ubicoo.com>
  */
 
-//$conf['fixme']    = 'FIXME';
+$conf['redminebackend']    = 'https://';
+$conf['redmineapikey']    = '';

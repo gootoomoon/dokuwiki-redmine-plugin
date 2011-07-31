@@ -7,7 +7,7 @@
 
 // keys need to match the config setting name
 $lang['redminebackend'] = 'Redmine Backend';
-$lang['redmineapikey'] = 'Redmine API Key';
+$lang['redmineapikey'] = 'Redmine API Schlüssel';
 
 
 

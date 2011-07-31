@@ -6,5 +6,6 @@
  */
 
 
-//$meta['fixme'] = array('string');
+$meta['redminebackend'] = array('string');
+$meta['redmineapikey'] = array('string');
 
