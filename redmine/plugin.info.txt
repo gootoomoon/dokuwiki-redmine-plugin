@@ -1,7 +1,7 @@
 base   redmine
-author Stefan Simroth, Ubicoo
+author Stefan Simroth
 email  stefan.simroth@ubicoo.com
-date   2011-07-10
-name   Redmine integration plugin
-desc   This integrates DokuWiki with the project management tool Redmine.
+date   2011-07-31
+name   redmine plugin
+desc   DokuWiki Redmine integration plugin
 url    https://github.com/ubicoo/dokuwiki-redmine-plugin
